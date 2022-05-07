@@ -46,15 +46,16 @@ h1{
 }
 
 img[alt=chip]{
-    width: 40%;
-    margin-left: 5rem;
+    width: 20%;
+    margin-left: 7rem;
+    margin-top: 1rem;
     transform: rotate(90deg);
 }
 
 img[alt=wifi]{
     width: 15%;
-    margin-left: -1.6rem;
-    margin-top: 1rem;
+    margin-left: -.3rem;
+    margin-top: 1.6rem;
     transform: rotate(90deg);
 }
 
